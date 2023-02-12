@@ -1,0 +1,135 @@
+﻿  Entity.cpp
+  Camera.cpp
+  ElementBuffer.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Helper.cpp
+  ImageLoader.cpp
+  main.cpp
+  Mesh.cpp
+  Model.cpp
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Model.cpp(24,46): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Model.cpp(45,87): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Model.cpp(48,92): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Model.cpp(51,88): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Model.cpp(54,91): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Model.cpp(104,40): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Model.cpp(125,76): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Model.cpp(128,81): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Model.cpp(131,74): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Model.cpp(134,80): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Model.cpp(182,40): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Model.cpp(188,76): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Model.cpp(191,78): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Model.cpp(194,80): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+  Renderer.cpp
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(310,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(319,54): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(320,58): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(321,44): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(323,54): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(324,44): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(325,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(329,58): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(330,44): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(331,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(333,58): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(334,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(335,54): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(348,73): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(348,50): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(350,76): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(350,53): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(459,55): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(503,45): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(507,45): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\ThreeGPStart\Renderer.cpp(560,56): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Simulation.cpp
+  VertexBuffer.cpp
+  Generating Code...
+  glew.c
+  ThreeGPStart.vcxproj -> C:\Users\bensc\Documents\UNI\Y2\3GP_Git\3D_Graphics_Programming\x64\Debug\ThreeGPStart.exe
